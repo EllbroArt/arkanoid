@@ -3911,7 +3911,7 @@ value:this._waitTime,onedit:v=>this._waitTime=v},{name:prefix+".properties.fade-
 		() => "Win",
 		() => -10,
 		() => "Я играю в Арканоид!",
-		() => "photo265383985_457241926,https://vk.com/ellbroart",
+		() => "https://vk.com/app7858467_265383985",
 		() => "VK",
 		() => "photo_200",
 		p => {
